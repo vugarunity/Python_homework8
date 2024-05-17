@@ -8,5 +8,5 @@
 ### А затем дополнить телефонный справочник возможностью изменения и удаления данных. Пользователь также может ввести имя или фамилию, и Вы должны реализовать функционал для изменения и удаления данных.
 
 ## Для решения задачи коды записаны в нескольких файлах:
-## main.py, va.py, logger.py, data_create.py, data_first_variant.csv, data_second_variant.csv
+## main.py, vn.py, logger.py, data_create.py, data_first_variant.csv, data_second_variant.csv
 
